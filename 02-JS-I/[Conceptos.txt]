@@ -1,0 +1,14 @@
+Variables
+Es una forma de guardar informacion teniendo la opcion de poder recuperarla despues mediante la asignacion de valores.
+
+Strings
+Es un tipo de dato en forma de cadena, hilo de caracteres o bloque de texto que siempre se debe definir entre comillas.
+
+Funciones
+Son un conjunto de instrucciones condicionadas o no, en bloque que reciben una orden, realizan una operacion y retornan un valor.
+
+Declaraciones
+Una declaracion es lo que queremos que la funcion realice, es decir que retorne un valor.
+
+Valores Booleanos
+Son codigos que solo tienen dos opciones, en JS son verdadero o falso

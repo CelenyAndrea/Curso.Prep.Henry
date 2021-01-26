@@ -1,0 +1,4 @@
+for : Es un bucle que permite evaluar expresiones una y otra vez hasta que devuelve lo que estamos buscando o se detiene despues de cierto tiempo, como por ejemplo imprimir del uno al 100.
+&& : Es el operador logico "y", evalua dos expresiones y devuelve true si ambas son verdaderas.
+|| : Es el operador logico "o", determina si una de dos expresiones es verdadera. Devolvera true si una o ambas lo es.
+! : Es el operador logico "no", determina la no igualdad entre dos expresiones.

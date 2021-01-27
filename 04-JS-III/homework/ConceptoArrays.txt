@@ -1,0 +1,3 @@
+Arrays
+Son una especie de contenedores de almacenamiento para colecciones de datos. 
+Pueden haber multiples tipos de datos diferentes en una misma matriz.

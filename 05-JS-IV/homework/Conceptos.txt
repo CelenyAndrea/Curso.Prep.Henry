@@ -1,0 +1,16 @@
+-Objetos
+Son contenedores de colecciones de datos que contienen mucha informacion sobre una sola cosa.
+
+-Propiedades
+Una propiedad es una asociacion entre un nombre o clave y un valor; definen las caracteristicas de un objeto.
+
+-Metodos
+Son funciones guardadas en un objeto.
+
+-Bucle for...in
+Es la manera de recorrer o iterar una cadena en un objeto.
+
+-Notacion de puntos vs notacion de corchetes
+Son dos formas diferentes para acceder a los valores de un objeto.  
+Con la notacion de puntos podemos llamar al nombre del objeto, punto y nombre de la clave. 
+Con la notacion de corchetes se puede llamar a cada clave envolviendola con comillas pero debemos usar una cadena o numero.

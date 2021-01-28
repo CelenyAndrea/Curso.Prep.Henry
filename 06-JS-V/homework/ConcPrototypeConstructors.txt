@@ -1,0 +1,4 @@
+-Prototype
+Es la forma que tienen las clases de establecer un metodo una vez y dar acceso a cada objeto de esa clase.
+_Constructors_ (de Clases)
+Es la forma que tenemos para crear muchos objetos que comparten algunas de las mismas propiedades y metodos y evitar tener que copiar una y otra vez una plantilla creada. 

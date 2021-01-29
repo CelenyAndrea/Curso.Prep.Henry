@@ -1,0 +1,2 @@
+Callback
+Es la capacidad de pasar una funcion a otra como argumento. Estas funciones pueden llamarse en cualquier momento.
